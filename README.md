@@ -14,7 +14,7 @@ The project proposal description goes here.
 
 ## Author
 
-- **Your name*: *YourProjectName* [projectname](https://github.com/RepoName)
+- **Your name*: *YourProjectName* [yourLinkedIn or yourGithub profile](https://adrress)
 
 ## License
 
