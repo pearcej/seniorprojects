@@ -1,14 +1,16 @@
-# CSC 493: YourProjectName Title
+# CSC 493: YourProjectName (as proposed)
 
-The project propoal description goes here.
+The project proposal description goes here.
 
 ### Prerequisites
 
-What is likely to be needed to install and run YourProjectName goes here.
+- What is likely to be needed to install and run YourProjectName goes here.
 
 ## Built With
 
-- [afreamework](http://www.aframework.io/): A framework that is likly to be used goes here.
+- [afreamework1](http://www.aframework1.io/): A framework that is likly to be used goes here.
+- [afreamework2](http://www.aframework2.io/): A second framework that is likly to be used goes here.
+- etc.
 
 ## Author
 
