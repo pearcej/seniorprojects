@@ -15,7 +15,7 @@ Your formally written project proposal description, and why it is useful/interes
 
 ## Author
 
-- **Your name*: *YourProposadProjectName* [yourLinkedIn or yourGithub profile](https://adrress)
+- **Your name**: *YourProposadProjectName* [yourLinkedIn or yourGithub profile](https://adrress)
 
 ## Acknowledgments
 
